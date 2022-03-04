@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R ugo+rwx /path/to/folder
+chmod -R ugo+rwx
